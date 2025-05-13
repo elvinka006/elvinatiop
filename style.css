@@ -1,0 +1,49 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 203px; 
+  padding: 20px;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 40px 0;
+  background: #373A3C;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: gray;
+}
+
+.navbar span a {
+  color: white; 
+}
+
+.navbox {
+  padding: 8px 16px;   
+  width: 210px;
+  height: 38px;     
+  border: 1px solid white;  
+  border-radius: 4px;      
+  margin-left: 20px;  
+  background: #fff;     
+}
+
+.navbox a {
+  color: #435766 !important;  
+  text-decoration: none;    
+}
+main img {
+  width: 100%;
+}
+
+.button {
+  position: relative;
+  width: 138px;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid white;  
+  border-radius: 4px;      
+  margin-left: 20px;  
+  background: #8dd83d;
+}
